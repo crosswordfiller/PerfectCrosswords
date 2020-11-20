@@ -23,3 +23,15 @@ How many presidents could fit in a 19x19 grid?
 Here is the best grid:
 
 ![39 presidents in a 19x19 grid](/Presidents/Presidents.png)
+
+## CrossC
+
+In GAMES Magazine, page 76, August 2006, the contest was to fill a 19x19 grid with territorial capitals.
+The winning solution, published in December 2006, page 93, used 36 words and 256 letters.
+Chris Rosin in his paper titled "Nested Rollout Policy Adaptation for Monte Carlo Tree Search" improved the record to 37 words, with 259 letters.
+
+Here is a better solution, with 37 words and 264 letters.
+1923 solutions with 37 words are known.
+
+![37 words and 264 letters](/CrossC/CrossC.png)
+
