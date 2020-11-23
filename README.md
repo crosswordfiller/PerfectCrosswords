@@ -26,7 +26,7 @@ Here is the best grid:
 
 ## CrossC
 
-In GAMES Magazine, August 2006, page 76, the contest was to fill a 19x19 grid with territorial capitals.
+In GAMES Magazine, August 2006, page 76, the contest was about filling a 19x19 grid with territorial capitals.
 
 The winning solution, published in December 2006, page 93, used 36 words and 256 letters.
 
@@ -39,7 +39,7 @@ Here is a better solution, with 37 words and 264 letters.
 
 ## CrossP
 
-In Games Magazine, June 1994, page 8, the contest was to fill a 19x19 grid with U.S. National Parks.
+In Games Magazine, June 1994, page 8, the contest was about filling a 19x19 grid with U.S. National Parks.
 
 The winning solution, published in October 1994, page 67, used 28 words and 236 letters.
 
@@ -49,3 +49,32 @@ Here is a better solution, with 29 words and 242 letters.
 Only one solution with 29 words is known.
 
 ![29 words and 242 letters](/CrossP/CrossP.png)
+
+## It's Elementary II
+
+In Games Magazine, Feburary 2013, the contest was about filling a 19x19 grid with the chemical elements.
+
+The winning solution, published in August 2013, page 77, used 44 words.
+
+Several thousands of solutions were found with 45 words.
+The best ones used 284 letters.
+
+![45 words and 284 letters](/Elements2/Elements2.png)
+
+## "United" States
+
+In Games Magazines, July/August 1980, the contest was about filling a 15x15 grid with the US states.
+
+The winning solution, published in November/December 1980, page 86, used 25 states.
+
+The best solution uses 26 states and 171 letters.
+
+![26 words and 171 letters](/UnitedStates/15x15.png)
+
+
+## On the Ice
+
+In Games Magazine, August 2013, page 76, the contest was about filling the smallest possible rectangle grid containing National Hockey League Teams.
+
+The winning solution, published in February 2014, page 77, was a grid 10x32.
+
