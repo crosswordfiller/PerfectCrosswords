@@ -57,9 +57,9 @@ In Games Magazine, Feburary 2013, the contest was about filling a 19x19 grid wit
 The winning solution, published in August 2013, page 77, used 44 words.
 
 Several thousands of solutions were found with 45 words.
-The best ones used 284 letters.
+The best ones contain 285 letters, there are 2736 solutions.
 
-![45 words and 284 letters](/Elements2/Elements2.png)
+![45 words and 285 letters](/Elements2/Elements2.png)
 
 ## "United" States
 
